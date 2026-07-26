@@ -1,0 +1,13 @@
+VERSAO ATUALIZADA - GIDEON IMOVEIS
+
+Imoveis incluidos:
+- UNA Areiao
+- Lote Jardins Versalhes
+- Passos Flamboyant
+- Casamerica Parque Cascavel
+- Casa Buriti Sereno - Cinza
+- Casa Buriti Sereno - Marrom
+- Casa Setor Aeroporto Sul
+- Apartamento Residencial Caribe
+
+Para publicar: envie todo o conteudo desta pasta para a raiz do repositorio GitHub conectado a Vercel.
